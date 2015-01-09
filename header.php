@@ -50,7 +50,7 @@
                 </ul>
                 <ul id="site_nav" class="clearfix pull-right">
 
-                    <li><a href="/pages/adopt"><span class="label"><span
+                    <li><a href="https://www.campaign.ox.ac.uk/page.aspx?pid=3091"><span class="label"><span
                                     class="highlight-orange">Donate</span></span></a>
                     </li>
                     <li><a href="http://www.penguinwatch.org/"

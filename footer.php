@@ -31,6 +31,7 @@
 
         <div class="clearfix"></div>
 
+        <?php wp_loginout(); ?> | <?php wp_register('',''); ?>
     </div>
 
     <!-- .site-info -->
